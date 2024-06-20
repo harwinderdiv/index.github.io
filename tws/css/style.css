@@ -1,0 +1,33 @@
+.color-pink {
+	color: #f9468b !important;
+}
+
+.border-color {
+	border-bottom: 2px solid #f9468b;
+}
+
+.form-border {
+	border: 2px solid #f9468b !important;
+}
+
+.form-main {
+	border-left: 2px solid #f9468b;
+	border-right: 2px solid #f9468b;
+}
+
+.cm-pink {
+	background-color: #f9468b !important;
+	color: white !important;
+}
+
+.bg-pink {
+	background-color: #fdf7f8;
+}
+
+.cm-gradient {
+	background: linear-gradient(88deg, rgba(255, 255, 255, 1) 50%, rgb(254 254 254 / 67%) 37%) !important;
+}
+
+.cw-57 {
+	width: 57px;
+}

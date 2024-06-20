@@ -1,0 +1,58 @@
+/* @media only screen 768 to 576*/
+@media only screen and (max-width: 768px) and (min-width: 576px) {
+.cmq-fs-32{
+	 font-size: 32px !important;
+}
+.cmq-w-150{
+	width: 150px !important;
+}
+}
+/* @media only screen 1200 to 992*/
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+.cmq-fs-27{
+	 font-size: 27px !important;
+}
+.cmq-w-242{
+	width: 242px !important;
+}
+
+.mdq-fs24{
+	font-size: 24px !important;
+}
+}
+/* @media only screen 992 to 768*/
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+.cmq-w-242{
+	 width: 151px !important;
+}
+.cmq-fs-27{
+	font-size: 14px !important;
+}
+.cmq-fs-21{
+	font-size: 12px !important;
+}
+.cmq-dnone{
+	display: none !important;
+}
+.mdq-mt{
+	margin-top: 50px !important;
+}
+}
+/* @media only screen 768 to 576*/
+@media only screen and (max-width: 768px) and (min-width: 576px) {
+.cmq-w-242{
+	 width: 151px !important;
+}
+.cmq-fs-27{
+	font-size: 14px !important;
+}
+.cmq-fs-21{
+	font-size: 12px !important;
+}
+.cmq-dnone-sm{
+	display: none !important;
+}
+.mdq-mt{
+	margin-top: 50px !important;
+}	
+}
